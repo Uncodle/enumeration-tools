@@ -1,0 +1,6 @@
+root
+mysql
+www-data
+camila
+ricardo
+
